@@ -1,6 +1,9 @@
  
 # Cooperative vs Non-Cooperative NOMA Project
 
+
+--
+
 This project analyzes and compares the outage probability performance of Cooperative NOMA and Non-Cooperative NOMA schemes in wireless communication systems. It includes simulations, CSV data outputs, and plots for different relay power fractions.
 
 
@@ -8,6 +11,9 @@ This project analyzes and compares the outage probability performance of Coopera
 
 
 ## 📂 Project Structure
+
+--
+
 Coop-NOMA-Project/
 ├── Coop_NOMA.ipynb        # Jupyter Notebook with simulation code
 ├── outage_results_.csv # Results for relay fraction sweep
